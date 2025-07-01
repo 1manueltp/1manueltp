@@ -16,8 +16,8 @@ Setiap baris bukan hanya instruksi, tapi bagian dari perjalanan belajarku 📚.
 
 ## 📈 GitHub Insight
 
-![Imanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=**1manueltp**&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**1manueltp**&layout=compact&theme=tokyonight)
+![Imanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1manueltp&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1manueltp&layout=compact&theme=tokyonight)
 
 ---
 
@@ -35,7 +35,7 @@ Setiap baris bukan hanya instruksi, tapi bagian dari perjalanan belajarku 📚.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/imanuelltp)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/imanuelltp)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/YOUR-INVITE)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/1nuel)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:imanueltp@gmail.com)
 
 ---
