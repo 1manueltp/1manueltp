@@ -5,7 +5,8 @@
 👋 Halo! I'm **Imanuel Tegar Prakosa**, a passionate **🎓 Teknik Informatika** student who believes that coding isn’t just about solving problems, but about building something meaningful with logic and heart 💖.
 
 🛠️ With **Visual Studio Code** as my favorite editor, I bring ideas to life using:  
-💻 **Java, C++, JavaScript**, and 🌐 web technologies like **HTML & CSS**.  
+💻 **Java, C++, JavaScript**, 
+🌐 web technologies like **HTML & CSS**.  
 Setiap baris bukan hanya instruksi, tapi bagian dari perjalanan belajarku 📚.
 
 🌱 Still learning, still growing, and always ready to fall for the next challenge, collaboration 🤝, or project 🚀.
