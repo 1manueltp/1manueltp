@@ -17,8 +17,8 @@ Setiap baris bukan hanya instruksi, tapi bagian dari perjalanan belajarku 📚.
 
 ## 📊 GitHub Insight
 
-![Imanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1manuelp&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1manuelp&layout=compact&theme=tokyonight&hide_border=true)
+![Imanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1manuelp&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1manuelp&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 
 ---
