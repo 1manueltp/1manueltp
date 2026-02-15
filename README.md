@@ -15,10 +15,11 @@ Setiap baris bukan hanya instruksi, tapi bagian dari perjalanan belajarku 📚.
 
 ---
 
-## 📈 GitHub Insight
+## 📊 GitHub Insight
 
-![Imanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1manueltp&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1manueltp&layout=compact&theme=tokyonight)
+![Imanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=1manuelp&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1manuelp&layout=compact&theme=tokyonight&hide_border=true)
+
 
 ---
 
